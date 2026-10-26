@@ -64,7 +64,7 @@ python housing_budget_model.py --mode all --out output --n-paths 300 --seed 42
 ## Публикации
 
 - Хабр: ``
-- VC.ru: ``
+- VC.ru: `https://vc.ru/money/3217647-kupit-studiyu-v-sankt-peterburge-ili-arendovat-zhilyo`
 
 ## Лицензия
 
